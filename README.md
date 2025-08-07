@@ -2,6 +2,10 @@
 
 ## Reinforced Video-LLMs
 
-## Video-LLM Supervised Fine-Tuning
+## Video-LLM SFT for Reasoning
 
-## Test-Time Scaling in Video Understanding
+## Test-Time Scaling in Video Reasoning
+
+## Benchmarks for Video Reasoning
+
+## Relevant Surveys
