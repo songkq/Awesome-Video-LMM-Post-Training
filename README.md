@@ -8,4 +8,4 @@
 
 ## Benchmarks for Video Reasoning
 
-## Relevant Surveys
+## Related Surveys
