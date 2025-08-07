@@ -4,15 +4,18 @@
 
 - [Awesome-Video-LLM-Post-Training ](#awesome-video-llm-post-training-)
   - [Table of Contents](#table-of-contents)
-  - [Reinforced Video-LLMs](#reinforced-video-llms)
-  - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
-  - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
-  - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
-  - [Related Surveys](#related-surveys)
-    - [🌟 Star History](#-star-history)
-    - [📝 Citation](#-citation)
+  - [Survey](#survey)
+    - [Reinforced Video-LLMs](#reinforced-video-llms)
+    - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
+    - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
+    - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
+    - [Related Surveys](#related-surveys)
+  - [🌟 Star History](#-star-history)
+  - [📝 Citation](#-citation)
 
-## Reinforced Video-LLMs
+## Survey
+
+### Reinforced Video-LLMs
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -69,7 +72,7 @@
 | VideoSAVi: Self-Aligned Video Language Models without Human Supervision | [arXiv](https://arxiv.org/abs/2412.00624) | | | |
 
 
-## Video-LLM SFT for Reasoning
+### Video-LLM SFT for Reasoning
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -130,7 +133,7 @@
 | Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models | [arXiv](https://arxiv.org/abs/2410.03290) | | | |
 
 
-## Test-Time Scaling in Video Reasoning
+### Test-Time Scaling in Video Reasoning
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -209,7 +212,7 @@
 | Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition | [arXiv](https://arxiv.org/abs/2501.03230) | | | |
 
 
-## Benchmarks for Video Reasoning
+### Benchmarks for Video Reasoning
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -251,7 +254,7 @@
 | ViLLa: Video Reasoning Segmentation with Large Language Model | [arXiv](https://arxiv.org/abs/2407.14500) | | | |
 
 
-## Related Surveys
+### Related Surveys
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -266,12 +269,12 @@
 
 
 
-### 🌟 Star History
+## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-Video-LLM-Post-Training&type=Date)](https://star-history.com/#yunlong10/Awesome-Video-LLM-Post-Training&Date)
 
 
-### 📝 Citation
+## 📝 Citation
 
 ```bibtex
 @misc{tang2025videollmposttraining,
