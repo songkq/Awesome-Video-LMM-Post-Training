@@ -14,7 +14,7 @@
 
 ## Reinforced Video-LLMs
 
-| Paper | Link | Code | Dataset | Venue |
+| Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [arXiv](https://arxiv.org/abs/2508.04416) | | | |
 | ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [arXiv](https://arxiv.org/abs/2507.20939) | | | |
@@ -71,7 +71,7 @@
 
 ## Video-LLM SFT for Reasoning
 
-| Paper | Link | Code | Dataset | Venue |
+| Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [arXiv](https://arxiv.org/abs/2508.04416) | | | |
 | ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [arXiv](https://arxiv.org/abs/2507.20939) | | | |
@@ -132,7 +132,7 @@
 
 ## Test-Time Scaling in Video Reasoning
 
-| Paper | Link | Code | Dataset | Venue |
+| Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [arXiv](https://arxiv.org/abs/2508.04416) | | | |
 | VideoForest: Person-Anchored Hierarchical Reasoning for Cross-Video Question Answering | [arXiv](https://arxiv.org/abs/2508.03039) | | | |
@@ -211,7 +211,7 @@
 
 ## Benchmarks for Video Reasoning
 
-| Paper | Link | Code | Dataset | Venue |
+| Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding | [arXiv](https://arxiv.org/abs/2507.15028) | | | |
 | HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding | [arXiv](https://arxiv.org/abs/2507.04909) | | | |
@@ -253,7 +253,7 @@
 
 ## Related Surveys
 
-| Paper | Link | Code | Dataset | Venue |
+| Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models | [arXiv](https://arxiv.org/abs/2505.04921) | | | |
 | VideoLLM Benchmarks and Evaluation: A Survey | [arXiv](https://arxiv.org/abs/2505.03829) | | | |
@@ -263,6 +263,8 @@
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [arXiv](https://arxiv.org/abs/2409.18938) | | | |
 | VideoQA in the Era of LLMs: An Empirical Study | [arXiv](https://arxiv.org/abs/2408.04223) | | | |
 | Video Understanding with Large Language Models: A Survey | [arXiv](https://arxiv.org/abs/2312.17322) | | | |
+
+
 
 ### 🌟 Star History
 
