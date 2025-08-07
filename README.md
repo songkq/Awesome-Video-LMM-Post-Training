@@ -1,5 +1,17 @@
 # Awesome-Video-LLM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Table of Contents
+
+- [Awesome-Video-LLM-Post-Training ](#awesome-video-llm-post-training-)
+  - [Table of Contents](#table-of-contents)
+  - [Reinforced Video-LLMs](#reinforced-video-llms)
+  - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
+  - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
+  - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
+  - [Related Surveys](#related-surveys)
+    - [🌟 Star History](#-star-history)
+    - [📝 Citation](#-citation)
+
 ## Reinforced Video-LLMs
 
 | Paper | Link | Code | Dataset | Venue |
@@ -252,3 +264,18 @@
 | VideoQA in the Era of LLMs: An Empirical Study | [arXiv](https://arxiv.org/abs/2408.04223) | | | |
 | Video Understanding with Large Language Models: A Survey | [arXiv](https://arxiv.org/abs/2312.17322) | | | |
 
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-Video-LLM-Post-Training&type=Date)](https://star-history.com/#yunlong10/Awesome-Video-LLM-Post-Training&Date)
+
+
+### 📝 Citation
+
+```bibtex
+@misc{tang2025videollmposttraining,
+  title={Awesome Video-LLM Post-Training},
+  year={2025},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/yunlong10/Awesome-Video-LLM-Post-Training}},
+}
+```
