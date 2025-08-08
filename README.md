@@ -214,6 +214,8 @@
 | MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning | [Link](https://arxiv.org/abs/2409.17647) | | | |
 | AMEGO: Active Memory from long EGOcentric videos | [Link](https://arxiv.org/abs/2409.10917) | | | |
 | Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition | [Link](https://arxiv.org/abs/2501.03230) | | | |
+| Can Sound Replace Vision in LLaVA With Token Substitution? | [arXiv](https://arxiv.org/pdf/2506.10416) | | | |
+
 
 
 ### Benchmarks for Video Reasoning
