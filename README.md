@@ -170,6 +170,7 @@
 | VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models | [arXiv](https://arxiv.org/abs/2505.08455) | | | |
 | Seed1.5-VL Technical Report | [arXiv](https://arxiv.org/abs/2505.07062) | | | |
 | Empowering Agentic Video Analytics Systems with Video Language Models | [arXiv](https://arxiv.org/abs/2505.00254) | | | |
+| Divide and Conquer: Exploring Language-centric Tree Reasoning for Video Question-Answering | [arXiv](https://openreview.net/forum?id=yTpn3QY9Ff) | | | |
 | SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding | [arXiv](https://arxiv.org/abs/2504.21435) | | | |
 | VideoMultiAgents: A Multi-Agent Framework for Video Question Answering | [arXiv](https://arxiv.org/abs/2504.20091) | | | |
 | MR. Video: "MapReduce" is the Principle for Long Video Understanding | [arXiv](https://arxiv.org/abs/2504.16082) | | | |
@@ -266,6 +267,7 @@
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [arXiv](https://arxiv.org/abs/2409.18938) | | | |
 | VideoQA in the Era of LLMs: An Empirical Study | [arXiv](https://arxiv.org/abs/2408.04223) | | | |
 | Video Understanding with Large Language Models: A Survey | [arXiv](https://arxiv.org/abs/2312.17322) | | | |
+
 
 
 
