@@ -79,6 +79,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | [Link](https://arxiv.org/abs/2503.12542) | | | |
 | Memory-enhanced Retrieval Augmentation for Long Video Understanding | [Link](https://arxiv.org/abs/2503.09149) | | | |
 | video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model | [Link](https://arxiv.org/abs/2502.11775) | | | |
+| Unhackable Temporal Rewarding for Scalable Video MLLMs | [Link](https://arxiv.org/abs/2502.12081) | | | |
 | Temporal Preference Optimization for Long-Form Video Understanding | [Link](https://arxiv.org/abs/2501.13919) | | | |
 | InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model | [Link](https://arxiv.org/abs/2501.12368) | | | |
 | VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning | [Link](https://arxiv.org/abs/2501.06761) | | | |
@@ -134,6 +135,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Token-Efficient Long Video Understanding for Multimodal LLMs | [Link](https://arxiv.org/abs/2503.04130) | | | |
 | M-LLM Based Video Frame Selection for Efficient Video Understanding | [Link](https://arxiv.org/abs/2502.19680) | | | |
 | video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model | [Link](https://arxiv.org/abs/2502.11775) | | | |
+| Unhackable Temporal Rewarding for Scalable Video MLLMs | [Link](https://arxiv.org/abs/2502.12081) | | | |
 | Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray | [Link](https://arxiv.org/abs/2502.05177) | | | |
 | InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model | [Link](https://arxiv.org/abs/2501.12368) | | | |
 | Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks | [Link](https://arxiv.org/abs/2501.08326) | | | |
@@ -226,8 +228,6 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning | [Link](https://arxiv.org/abs/2409.17647) | | | |
 | AMEGO: Active Memory from long EGOcentric videos | [Link](https://arxiv.org/abs/2409.10917) | | | |
 | Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition | [Link](https://arxiv.org/abs/2501.03230) | | | |
-| Can Sound Replace Vision in LLaVA With Token Substitution? | [arXiv](https://arxiv.org/pdf/2506.10416) | | | |
-
 
 
 ### Benchmarks for Video Reasoning
@@ -250,6 +250,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs | [Link](https://arxiv.org/abs/2504.15415) | | | |
 | VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning | [Link](https://arxiv.org/abs/2504.07956) | | | |
 | InstructionBench: An Instructional Video Understanding Benchmark | [Link](https://arxiv.org/abs/2504.05040) | | | |
+| Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 | [Link](https://arxiv.org/abs/2503.24376) | | | |
 | H2VU-Benchmark: A Comprehensive Benchmark for Hierarchical Holistic Video Understanding | [Link](https://arxiv.org/abs/2503.24008) | | | |
 | OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts | [Link](https://arxiv.org/abs/2503.22952) | | | |
 | V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning | [Link](https://arxiv.org/abs/2503.11495) | | | |
@@ -284,6 +285,8 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [Link](https://arxiv.org/abs/2409.18938) | | | |
 | VideoQA in the Era of LLMs: An Empirical Study | [Link](https://arxiv.org/abs/2408.04223) | | | |
 | Video Understanding with Large Language Models: A Survey | [Link](https://arxiv.org/abs/2312.17322) | | | |
+
+
 
 
 ## 🌟 Star History
