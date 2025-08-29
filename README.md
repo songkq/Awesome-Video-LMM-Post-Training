@@ -31,7 +31,9 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding | [Link](https://arxiv.org/abs/2508.20478) | | | |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [Link](https://arxiv.org/abs/2508.04416) | | | |
+| ReasonAct: Progressive Training for Fine-Grained Video Reasoning in Small Models | [Link](https://arxiv.org/abs/2508.01533) | | | |
 | ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [Link](https://arxiv.org/abs/2507.20939) | | | |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Link](https://arxiv.org/abs/2507.10548) | | | |
 | Scaling RL to Long Videos | [Link](https://arxiv.org/abs/2507.07966) | | | |
@@ -90,7 +92,9 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding | [Link](https://arxiv.org/abs/2508.20478) | | | |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [Link](https://arxiv.org/abs/2508.04416) | | | |
+| ReasonAct: Progressive Training for Fine-Grained Video Reasoning in Small Models | [Link](https://arxiv.org/abs/2508.01533) | | | |
 | ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [Link](https://arxiv.org/abs/2507.20939) | | | |
 | CoTasks: Chain-of-Thought based Video Instruction Tuning Tasks | [Link](https://arxiv.org/abs/2507.13609) | | | |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Link](https://arxiv.org/abs/2507.10548) | | | |
@@ -131,7 +135,6 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | [Link](https://arxiv.org/abs/2503.12542) | | | |
 | TIME: Temporal-sensitive Multi-dimensional Instruction Tuning and Benchmarking for Video-LLMs | [Link](https://arxiv.org/abs/2503.09994) | | | |
 | Memory-enhanced Retrieval Augmentation for Long Video Understanding | [Link](https://arxiv.org/abs/2503.09149) | | | |
-| UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces | [Link](https://arxiv.org/abs/2503.06157) | | | |
 | Token-Efficient Long Video Understanding for Multimodal LLMs | [Link](https://arxiv.org/abs/2503.04130) | | | |
 | M-LLM Based Video Frame Selection for Efficient Video Understanding | [Link](https://arxiv.org/abs/2502.19680) | | | |
 | video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model | [Link](https://arxiv.org/abs/2502.11775) | | | |
@@ -146,16 +149,17 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training | [Link](https://arxiv.org/abs/2412.00161) | | | |
 | ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos | [Link](https://arxiv.org/abs/2411.14901) | | | |
 | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection | [Link](https://arxiv.org/abs/2411.14794) | | | |
-| Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models | [Link](https://arxiv.org/abs/2410.03290) | | | |
 
 
 ### Test-Time Scaling in Video Reasoning
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding | [Link](https://arxiv.org/abs/2508.20478) | | | |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [Link](https://arxiv.org/abs/2508.04416) | | | |
 | VideoForest: Person-Anchored Hierarchical Reasoning for Cross-Video Question Answering | [Link](https://arxiv.org/abs/2508.03039) | | | |
 | Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference | [Link](https://arxiv.org/abs/2508.02134) | | | |
+| ReasonAct: Progressive Training for Fine-Grained Video Reasoning in Small Models | [Link](https://arxiv.org/abs/2508.01533) | | | |
 | EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent | [Link](https://arxiv.org/abs/2507.15428) | | | |
 | Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding | [Link](https://arxiv.org/abs/2507.15028) | | | |
 | ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models | [Link](https://arxiv.org/abs/2507.09876) | | | |
@@ -195,7 +199,6 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT | [Link](https://arxiv.org/abs/2504.04471) | | | |
 | WikiVideo: Article Generation from Multiple Videos | [Link](https://arxiv.org/abs/2504.00939) | | | |
 | Aurelia: Test-time Reasoning Distillation in Audio-Visual LLMs | [Link](https://arxiv.org/abs/2503.23219) | | | |
-| Online Reasoning Video Segmentation with Just-in-Time Digital Twins | [Link](https://arxiv.org/abs/2503.21056) | | | |
 | From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment | [Link](https://arxiv.org/abs/2503.20472) | | | |
 | Agentic Keyframe Search for Video Question Answering | [Link](https://arxiv.org/abs/2503.16032) | | | |
 | VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning | [Link](https://arxiv.org/abs/2503.13444) | | | |
@@ -210,7 +213,6 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray | [Link](https://arxiv.org/abs/2502.05177) | | | |
 | Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge | [Link](https://arxiv.org/abs/2501.13468) | | | |
 | InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model | [Link](https://arxiv.org/abs/2501.12368) | | | |
-| The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | [Link](https://arxiv.org/abs/2501.08549) | | | |
 | MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning | [Link](https://arxiv.org/abs/2501.07227) | | | |
 | VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning | [Link](https://arxiv.org/abs/2501.06761) | | | |
 | Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs | [Link](https://arxiv.org/abs/2501.04336) | | | |
@@ -226,7 +228,6 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning | [Link](https://arxiv.org/abs/2410.20252) | | | |
 | VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs | [Link](https://arxiv.org/abs/2409.20365) | | | |
 | MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning | [Link](https://arxiv.org/abs/2409.17647) | | | |
-| AMEGO: Active Memory from long EGOcentric videos | [Link](https://arxiv.org/abs/2409.10917) | | | |
 | Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition | [Link](https://arxiv.org/abs/2501.03230) | | | |
 
 
@@ -235,24 +236,22 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding | [Link](https://arxiv.org/abs/2507.15028) | | | |
-| HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding | [Link](https://arxiv.org/abs/2507.04909) | | | |
 | ImplicitQA: Going beyond frames towards Implicit Video Reasoning | [Link](https://arxiv.org/abs/2506.21742) | | | |
 | Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning | [Link](https://arxiv.org/abs/2506.07811) | | | |
 | MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning | [Link](https://arxiv.org/abs/2506.05523) | | | |
-| Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments | [Link](https://arxiv.org/abs/2506.02845) | | | |
 | Time Blindness: Why Video-Language Models Can't See What Humans Can? | [Link](https://arxiv.org/abs/2505.24867) | | | |
 | ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding | [Link](https://arxiv.org/abs/2505.23922) | | | |
 | VidText: Towards Comprehensive Evaluation for Video Text Understanding | [Link](https://arxiv.org/abs/2505.22810) | | | |
 | Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning? | [Link](https://arxiv.org/abs/2505.21374) | | | |
+| From Evaluation to Defense: Advancing Safety in Video Large Language Models | [Link](https://arxiv.org/abs/2505.16643) | | | |
 | VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation | [Link](https://arxiv.org/abs/2505.14640) | | | |
 | Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding? | [Link](https://arxiv.org/abs/2505.14321) | | | |
 | MINERVA: Evaluating Complex Video Reasoning | [Link](https://arxiv.org/abs/2505.00681) | | | |
-| IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs | [Link](https://arxiv.org/abs/2504.15415) | | | |
 | VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning | [Link](https://arxiv.org/abs/2504.07956) | | | |
-| InstructionBench: An Instructional Video Understanding Benchmark | [Link](https://arxiv.org/abs/2504.05040) | | | |
 | Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 | [Link](https://arxiv.org/abs/2503.24376) | | | |
 | H2VU-Benchmark: A Comprehensive Benchmark for Hierarchical Holistic Video Understanding | [Link](https://arxiv.org/abs/2503.24008) | | | |
 | OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts | [Link](https://arxiv.org/abs/2503.22952) | | | |
+| Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation | [Link](https://arxiv.org/abs/2503.19622) | | | |
 | V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning | [Link](https://arxiv.org/abs/2503.11495) | | | |
 | Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation | [Link](https://arxiv.org/abs/2503.10691) | | | |
 | Towards Fine-Grained Video Question Answering | [Link](https://arxiv.org/abs/2503.06820) | | | |
@@ -261,16 +260,11 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding? | [Link](https://arxiv.org/abs/2501.05510) | | | |
 | HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding | [Link](https://arxiv.org/abs/2501.01645) | | | |
 | Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces | [Link](https://arxiv.org/abs/2412.14171) | | | |
-| Neptune: The Long Orbit to Benchmarking Long Video Understanding | [Link](https://arxiv.org/abs/2412.09582) | | | |
 | 3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark | [Link](https://arxiv.org/abs/2412.07825) | | | |
 | Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events | [Link](https://arxiv.org/abs/2412.05725) | | | |
 | VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding | [Link](https://arxiv.org/abs/2412.03735) | | | |
-| Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level | [Link](https://arxiv.org/abs/2411.09921) | | | |
 | TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models | [Link](https://arxiv.org/abs/2410.23266) | | | |
 | TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models | [Link](https://arxiv.org/abs/2410.10818) | | | |
-| One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | [Link](https://arxiv.org/abs/2409.19603) | | | |
-| Compositional Physical Reasoning of Objects and Events from Videos | [Link](https://arxiv.org/abs/2408.02687) | | | |
-| ViLLa: Video Reasoning Segmentation with Large Language Model | [Link](https://arxiv.org/abs/2407.14500) | | | |
 
 
 ### Related Surveys
@@ -283,10 +277,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | [Link](https://arxiv.org/abs/2503.12605) | | | |
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [Link](https://arxiv.org/abs/2409.18938) | | | |
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [Link](https://arxiv.org/abs/2409.18938) | | | |
-| VideoQA in the Era of LLMs: An Empirical Study | [Link](https://arxiv.org/abs/2408.04223) | | | |
 | Video Understanding with Large Language Models: A Survey | [Link](https://arxiv.org/abs/2312.17322) | | | |
-
-
 
 
 ## 🌟 Star History
