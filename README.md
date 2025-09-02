@@ -166,6 +166,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Link](https://arxiv.org/abs/2507.06485) | | | |
 | StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling | [Link](https://arxiv.org/abs/2507.05240) | | | |
 | VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning | [Link](https://arxiv.org/abs/2507.02626) | | | |
+| Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames | [Link](https://arxiv.org/abs/2507.02001) | | | |
 | DIVE: Deep-search Iterative Video Exploration A Technical Report for the CVRR Challenge at CVPR 2025 | [Link](https://arxiv.org/abs/2506.21891) | | | |
 | How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering? | [Link](https://arxiv.org/abs/2506.16450) | | | |
 | Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning | [Link](https://arxiv.org/abs/2506.13654) | | | |
@@ -278,6 +279,9 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [Link](https://arxiv.org/abs/2409.18938) | | | |
 | From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding | [Link](https://arxiv.org/abs/2409.18938) | | | |
 | Video Understanding with Large Language Models: A Survey | [Link](https://arxiv.org/abs/2312.17322) | | | |
+
+
+
 
 
 ## 🌟 Star History
