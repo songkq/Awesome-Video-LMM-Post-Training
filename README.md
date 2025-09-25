@@ -1,24 +1,24 @@
-# Awesome-Video-LLM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Video-LMM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This Awesome list systematically curates and tracks the latest research in the post-training of Video-LLMs, with a special emphasis on works that enhance their reasoning capabilities. Following the taxonomy of the field, we focus on three key paradigms:
+This Awesome list systematically curates and tracks the latest research in the post-training of Video-LMMs, with a special emphasis on works that enhance their reasoning capabilities. Following the taxonomy of the field, we focus on three key paradigms:
 
-- 🧠 Reinforced Video-LLMs: Exploring how RL techniques are used to align Video-LLMs with human preferences or specific metrics. This includes methods like RLHF, DPO, GRPO and the design of effective reward models to enhance the logical consistency and factuality of model outputs.
+- 🧠 Reinforced Video-LMMs: Exploring how RL techniques are used to align Video-LMMs with human preferences or specific metrics. This includes methods like RLHF, DPO, GRPO and the design of effective reward models to enhance the logical consistency and factuality of model outputs.
 
 - ⚙️ SFT for Reasoning: Collecting studies that leverage SFT on meticulously curated, reasoning-centric datasets. These works often incorporate CoT or other structured formats to directly teach models how to perform complex, multi-step reasoning.
 
 - 🚀 Test-Time Scaling in Video Reasoning: Focusing on strategies that enhance reasoning capabilities at inference time without requiring further model training. This includes techniques like agentic frameworks, tool use, RAG, long CoT, and other methods that scale reasoning through computation.
 
-- 📊 Benchmarks for Video Reasoning: Including the latest and most challenging benchmarks designed specifically to evaluate the complex reasoning abilities of Video-LLMs.
+- 📊 Benchmarks for Video Reasoning: Including the latest and most challenging benchmarks designed specifically to evaluate the complex reasoning abilities of Video-LMMs.
 
 We hope this repository serves as a comprehensive and up-to-date resource hub for researchers and developers in this cutting-edge field. Contributions from the community are highly welcome via Pull Requests!
 
 ## Table of Contents
 
-- [Awesome-Video-LLM-Post-Training ](#awesome-video-llm-post-training-)
+- [Awesome-Video-LMM-Post-Training ](#awesome-video-lmm-post-training-)
   - [Table of Contents](#table-of-contents)
   - [Survey](#survey)
-    - [Reinforced Video-LLMs](#reinforced-video-llms)
-    - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
+    - [Reinforced Video-LMMs](#reinforced-video-lmms)
+    - [Video-LMM SFT for Reasoning](#video-lmm-sft-for-reasoning)
     - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
     - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
     - [Related Surveys](#related-surveys)
@@ -27,7 +27,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 
 ## Survey
 
-### Reinforced Video-LLMs
+### Reinforced Video-LMMs
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -88,7 +88,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | VideoSAVi: Self-Aligned Video Language Models without Human Supervision | [Link](https://arxiv.org/abs/2412.00624) | | | |
 
 
-### Video-LLM SFT for Reasoning
+### Video-LMM SFT for Reasoning
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -292,10 +292,10 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 ## 📝 Citation
 
 ```bibtex
-@misc{tang2025videollmposttraining,
-  title={Awesome Video-LLM Post-Training},
+@misc{tang2025videolmmposttraining,
+  title={Awesome Video-LMM Post-Training},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/yunlong10/Awesome-Video-LLM-Post-Training}},
+  howpublished={\url{https://github.com/yunlong10/Awesome-Video-LMM-Post-Training}},
 }
 ```
