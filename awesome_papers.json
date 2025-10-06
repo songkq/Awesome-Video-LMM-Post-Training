@@ -463,9 +463,9 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
-    "venue": ""
+    "code": "https://github.com/tychen-SJTU/MECD-Benchmark",
+    "dataset": "https://huggingface.co/datasets/tychen-sjtu/MECD",
+    "venue": "NeurIPS 2024 (Spotlight)"
   },
   {
     "title": "Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition",
@@ -474,9 +474,9 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/scofield7419/Video-of-Thought",
     "dataset": "",
-    "venue": ""
+    "venue": "ICML 2024 Oral"
   },
   {
     "title": "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments",
@@ -498,7 +498,7 @@
       "SFT",
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/Kwai-Keye/Keye",
     "dataset": "",
     "venue": ""
   },
@@ -510,8 +510,8 @@
       "SFT",
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/VidBridge-R1/VidBridge-R1",
+    "dataset": "https://huggingface.co/datasets/VidBridge-R1/VidBridge-R1_training_data",
     "venue": ""
   },
   {
@@ -522,7 +522,7 @@
       "SFT",
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/AV-Reasoner/AV-Reasoner",
     "dataset": "",
     "venue": ""
   },
@@ -533,7 +533,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/THUNLP-MT/MUSEG",
     "dataset": "",
     "venue": ""
   },
@@ -545,7 +545,7 @@
       "RL",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/xuzq23/ViaRL",
     "dataset": "",
     "venue": ""
   },
@@ -558,8 +558,8 @@
       "RL",
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/TencentARC/SEED-Bench-R1",
+    "dataset": "https://huggingface.co/datasets/TencentARC/SEED-Bench-R1",
     "venue": ""
   },
   {
@@ -584,9 +584,9 @@
       "RL",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-Reward",
     "dataset": "",
-    "venue": ""
+    "venue": "ACL 2025 Findings"
   },
   {
     "title": "From Evaluation to Defense: Advancing Safety in Video Large Language Models",
@@ -608,7 +608,7 @@
     "tags": [
       "SFT"
     ],
-    "code": "",
+    "code": "https://github.com/SaraGhazanfari/CoF",
     "dataset": "",
     "venue": ""
   },
@@ -619,8 +619,8 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/shuyansy/VidText",
+    "dataset": "https://huggingface.co/datasets/sy1998/VidText",
     "venue": ""
   },
   {
@@ -641,7 +641,7 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/t-montes/viqagent",
     "dataset": "",
     "venue": ""
   },
@@ -663,7 +663,7 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/MAC-AutoML/QuoTA",
     "dataset": "",
     "venue": ""
   },
@@ -675,7 +675,7 @@
       "SFT",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/OpenGVLab/InternVL",
     "dataset": "",
     "venue": ""
   },
@@ -708,8 +708,8 @@
     "tags": [
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/adityavavre/VidEgoVLM",
+    "dataset": "https://huggingface.co/datasets/omlab/VLM-R1",
     "venue": ""
   },
   {
@@ -719,8 +719,8 @@
     "tags": [
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/GVCLab/VAU-R1",
+    "dataset": "https://huggingface.co/datasets/7xiang/VAU-Bench",
     "venue": ""
   },
   {
@@ -731,7 +731,7 @@
       "RL",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/aim-uofa/Omni-R1",
     "dataset": "",
     "venue": ""
   },
@@ -743,7 +743,7 @@
       "SFT",
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/WPR001/Ego-ST",
     "dataset": "",
     "venue": ""
   },
@@ -755,9 +755,9 @@
       "SFT",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/Tanveer81/ReVisionLLM",
     "dataset": "",
-    "venue": ""
+    "venue": "CVPR 2025"
   },
   {
     "title": "How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?",
@@ -777,8 +777,8 @@
     "tags": [
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/xiaomi-research/time-r1",
+    "dataset": "https://huggingface.co/datasets/Boshenxx/TimeR1-Dataset",
     "venue": ""
   },
   {
@@ -788,7 +788,7 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
+    "code": "https://github.com/tychen-SJTU/Implicit-VideoQA",
     "dataset": "",
     "venue": ""
   },
@@ -799,8 +799,8 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/morse-benchmark/morse-500",
+    "dataset": "https://huggingface.co/datasets/video-reasoning/morse-500",
     "venue": ""
   },
   {
@@ -810,7 +810,7 @@
     "tags": [
       "Survey"
     ],
-    "code": "",
+    "code": "https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models",
     "dataset": "",
     "venue": ""
   },
@@ -821,9 +821,9 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
-    "venue": ""
+    "code": "https://github.com/TIGER-AI-Lab/TheoremExplainAgent",
+    "dataset": "https://huggingface.co/datasets/TIGER-Lab/TheoremExplainBench",
+    "venue": "ACL 2025 main"
   },
   {
     "title": "SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding",
@@ -832,9 +832,9 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/zackhxn/SeriesBench-CVPR2025",
     "dataset": "",
-    "venue": ""
+    "venue": "CVPR 2025"
   },
   {
     "title": "VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning",
