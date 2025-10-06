@@ -6,7 +6,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/appletea233/Temporal-R1",
     "dataset": "",
     "venue": ""
   },
@@ -29,7 +29,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/OpenGVLab/VideoChat-R1",
     "dataset": "",
     "venue": ""
   },
@@ -40,8 +40,8 @@
     "tags": [
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/OuyangKun10/SpaceR",
+    "dataset": "https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k",
     "venue": ""
   },
   {
@@ -53,8 +53,8 @@
       "RL",
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/Hongcheng-Gao/HAVEN",
+    "dataset": "https://github.com/Hongcheng-Gao/HAVEN/blob/main/Data/test_data.json",
     "venue": ""
   },
   {
@@ -65,7 +65,7 @@
       "SFT",
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/BriansIDP/video-SALMONN-o1",
     "dataset": "",
     "venue": ""
   },
@@ -76,8 +76,8 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/yale-nlp/MMVU",
+    "dataset": "https://huggingface.co/datasets/yale-nlp/MMVU",
     "venue": ""
   },
   {
@@ -88,7 +88,7 @@
       "SFT",
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/NVLabs/Long-RL",
     "dataset": "",
     "venue": ""
   },
@@ -100,7 +100,7 @@
       "RL",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/Ziyang412/Video-RTS",
     "dataset": "",
     "venue": ""
   },
@@ -111,7 +111,7 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/PanasonicConnect/DIVE",
     "dataset": "",
     "venue": ""
   },
@@ -123,7 +123,7 @@
       "Benchmark"
     ],
     "code": "",
-    "dataset": "",
+    "dataset": "https://huggingface.co/datasets/ucf-crcv/ImplicitQA",
     "venue": ""
   },
   {
@@ -135,8 +135,8 @@
       "RL",
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/egolife-ai/Ego-R1",
+    "dataset": "https://huggingface.co/Ego-R1",
     "venue": ""
   },
   {
@@ -146,8 +146,8 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/LiamZhao326/CogStream",
+    "dataset": "https://zenodo.org/records/15870909?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZiYmFlODkxLWUwZTUtNGUyMi04NzU0LWVhYTUxZWM3MzNhMiIsImRhdGEiOnt9LCJyYW5kb20iOiI3MWI5MzIwZDU3MDA1OWExMTBlZWQ5NTE2OTUzZTA5NSJ9.ITwHqhbk7cUcd4f9qHpIx972Jgfdis5qiMJwNXyo5vT7-Ltd-dvGQLD7yItrKmJPJI8oUCLb8ItODsrm7_t6NA",
     "venue": ""
   },
   {
@@ -168,7 +168,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/mlvlab/DeepVideoR1",
     "dataset": "",
     "venue": ""
   },
@@ -179,9 +179,9 @@
     "tags": [
       "SFT"
     ],
-    "code": "",
+    "code": "https://github.com/daeunni/Video-Skill-CoT",
     "dataset": "",
-    "venue": ""
+    "venue": "EMNLP 2025 Findings"
   },
   {
     "title": "ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding",
@@ -192,9 +192,9 @@
       "RL",
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/aiming-lab/ReAgent-V",
     "dataset": "",
-    "venue": ""
+    "venue": "NeurIPS 2025"
   },
   {
     "title": "SiLVR: A Simple Language-based Video Reasoning Framework",
@@ -203,7 +203,7 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/CeeZh/SILVR",
     "dataset": "",
     "venue": ""
   },
@@ -214,7 +214,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/longmalongma/TW-GRPO",
     "dataset": "",
     "venue": ""
   },
@@ -225,8 +225,8 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/llyx97/video_reason_bench",
+    "dataset": "https://huggingface.co/datasets/lyx97/reasoning_videos",
     "venue": ""
   },
   {
@@ -236,8 +236,8 @@
     "tags": [
       "SFT"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/sail-sg/Video-Next-Event-Prediction",
+    "dataset": "https://huggingface.co/datasets/haonan3/V1-33K",
     "venue": ""
   },
   {
@@ -247,7 +247,7 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
+    "code": "https://github.com/TencentARC/Video-Holmes",
     "dataset": "",
     "venue": ""
   },
@@ -258,7 +258,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/HITsz-TMG/VerIPO",
     "dataset": "",
     "venue": ""
   },
@@ -270,8 +270,8 @@
       "SFT",
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/AMAP-ML/UniVG-R1",
+    "dataset": "https://huggingface.co/datasets/GD-ML/UniVG-R1-data",
     "venue": ""
   },
   {
@@ -282,9 +282,9 @@
       "SFT",
       "RL"
     ],
-    "code": "",
-    "dataset": "",
-    "venue": ""
+    "code": "https://github.com/QiWang98/VideoRFT",
+    "dataset": "https://huggingface.co/datasets/QiWang98/VideoRFT-Data",
+    "venue": "NeurIPS 2025"
   },
   {
     "title": "RVTBench: A Benchmark for Visual Reasoning Tasks",
@@ -293,8 +293,8 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/yiqings/rvt",
+    "dataset": "https://huggingface.co/datasets/yiqingshen/rvtbench/tree/main/rvtbench",
     "venue": ""
   },
   {
@@ -315,7 +315,7 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
+    "code": "https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva",
     "dataset": "",
     "venue": ""
   },
@@ -326,7 +326,7 @@
     "tags": [
       "RL"
     ],
-    "code": "",
+    "code": "https://github.com/ZhangXJ199/TinyLLaVA-Video-R1",
     "dataset": "",
     "venue": ""
   },
@@ -337,8 +337,8 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/zhishuifeiqian/VCR-Bench",
+    "dataset": "https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench",
     "venue": ""
   },
   {
@@ -349,8 +349,8 @@
       "SFT",
       "RL"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/tulerfeng/Video-R1",
+    "dataset": "https://huggingface.co/datasets/Video-R1/Video-R1-data",
     "venue": ""
   },
   {
@@ -361,8 +361,8 @@
       "SFT",
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/yeliudev/VideoMind",
+    "dataset": "https://huggingface.co/datasets/yeliudev/VideoMind-Dataset/tree/main",
     "venue": ""
   },
   {
@@ -372,8 +372,8 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/V-STaR-Bench/V-STaR",
+    "dataset": "https://huggingface.co/datasets/V-STaR-Bench/V-STaR",
     "venue": ""
   },
   {
@@ -407,9 +407,9 @@
     "tags": [
       "TTS"
     ],
-    "code": "",
+    "code": "https://github.com/hmxiong/StreamChat",
     "dataset": "",
-    "venue": ""
+    "venue": "ICLR2025"
   },
   {
     "title": "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning",
@@ -429,8 +429,8 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/JoeLeelyf/OVO-Bench",
+    "dataset": "https://huggingface.co/datasets/JoeLeelyf/OVO-Bench",
     "venue": ""
   },
   {
@@ -440,9 +440,9 @@
     "tags": [
       "Benchmark"
     ],
-    "code": "",
-    "dataset": "",
-    "venue": ""
+    "code": "https://github.com/sahithyaravi/BlackSwan",
+    "dataset": "https://huggingface.co/collections/UBC-ViL/black-swan-abductive-and-defeasible-reasoning-67de1a4ab7ddc22edf0b0542",
+    "venue": "CVPR 2025"
   },
   {
     "title": "VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection",
@@ -452,8 +452,8 @@
       "SFT",
       "TTS"
     ],
-    "code": "",
-    "dataset": "",
+    "code": "https://github.com/hshjerry/VideoEspresso",
+    "dataset": "https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video/tree/main",
     "venue": ""
   },
   {
