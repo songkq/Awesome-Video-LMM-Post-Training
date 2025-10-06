@@ -1,6 +1,9 @@
 # Awesome-Video-LLM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![image](./assets/timeline.png)
+
 This Awesome list systematically curates and tracks the latest research in the post-training of Video-LLMs, with a special emphasis on works that enhance their reasoning capabilities. Following the taxonomy of the field, we focus on three key paradigms:
+
 
 - 🧠 Reinforced Video-LLMs: Exploring how RL techniques are used to align Video-LLMs with human preferences or specific metrics. This includes methods like RLHF, DPO, GRPO and the design of effective reward models to enhance the logical consistency and factuality of model outputs.
 
@@ -15,15 +18,18 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 ## Table of Contents
 
 - [Awesome-Video-LLM-Post-Training ](#awesome-video-llm-post-training-)
-  - [Table of Contents](#table-of-contents)
-  - [Survey](#survey)
-    - [Reinforced Video-LLMs](#reinforced-video-llms)
-    - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
-    - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
-    - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
-    - [Related Surveys](#related-surveys)
-  - [🌟 Star History](#-star-history)
-  - [📝 Citation](#-citation)
+    - [Table of Contents](#table-of-contents)
+    - [Survey](#survey)
+        - [Reinforced Video-LLMs](#reinforced-video-llms)
+        - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
+        - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
+        - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
+        - [Related Surveys](#related-surveys)
+    - [🌟 Star History](#-star-history)
+    - [📝 Citation](#-citation)
+
+    
+![image](./assets/teaser.png)
 
 ## Survey
 
