@@ -1,27 +1,33 @@
-# Awesome-Video-LLM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Video-LMM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models
+
+> *[Yolo Yunlong Tang](https://yunlong10.github.io/)$^{1}$, [Jing Bi](https://jing.vision/)$^{1}$, [Pinxin Liu](https://andypinxinliu.github.io/)$^{1}$, [Zhenyu Pan](https://pzyseere.github.io/)$^{2}$, [Zhangyun Tan](https://zhangyun04.github.io/)$^{1}$, [Qianxiang Shen](https://github.com/chrisqarrowx)$^{1}$, [Jiani Liu](https://openreview.net/profile?id=%7EJiani_Liu5)$^{1}$, [Hang Hua](https://hanghuacs.notion.site/)$^{1}$, [Junjia Guo](https://www.linkedin.com/in/junjia-guo-b3a9b5336/)$^{1}$, [Yunzhong Xiao](https://scholar.google.com/citations?user=b9uTwEgAAAAJ&hl=en)$^{3}$, [Chao Huang](https://wikichao.github.io/)$^{1}$, [Zhiyuan Wang](https://scholar.google.com/citations?user=4TdiRMYAAAAJ&hl=en)$^{4}$, [Susan Liang](https://liangsusan-git.github.io/)$^{1}$, [Xinyi Liu](https://xinyiliu0227.github.io/)$^{1}$, [Yizhi Song](https://song630.github.io/yizhisong.github.io/)$^{5}$, [Yuhe Nie](https://scholar.google.com/citations?user=6Rlva_8AAAAJ&hl=en)$^{6}$, [Jia-Xing Zhong](https://scholar.google.com/citations?hl=en&user=dIckm98AAAAJ)$^{7}$, [Bozheng Li](https://openreview.net/profile?id=~Bozheng_Li1)$^{8}$, [Daiqing Qi](https://daiqing-qi.github.io/me/index.html)$^{9}$, [Ziyun Zeng](https://scholar.google.com/citations?user=b2DIlscAAAAJ)$^{1}$, [Ali Vosoughi](https://alivosoughi.com/)$^{1}$, [Luchuan Song](https://songluchuan.github.io/)$^{1}$, [Zeliang Zhang](https://zhangaipi.github.io/)$^{1}$, [Daiki Shimada](https://scholar.google.com/citations?user=1uAwouQAAAAJ&hl=en)$^{10}$, [Han Liu](https://magics.cs.northwestern.edu/people.html)$^{2}$, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)$^{1}$, [Chenliang Xu](https://www.cs.rochester.edu/u/cxu22/)$^{1}$*
+
+> *<sup>1</sup>University of Rochester, <sup>2</sup>Northwestern University, <sup>3</sup>CMU, <sup>4</sup>UCSB, <sup>5</sup>Purdue University, <sup>6</sup>NYU, <sup>7</sup>University of Oxford, <sup>8</sup>Brown University, <sup>9</sup>University of Virginia, <sup>10</sup>Sony Group Corporation*
 
 ![image](./assets/timeline.png)
 
-This Awesome list systematically curates and tracks the latest research in the post-training of Video-LLMs, with a special emphasis on works that enhance their reasoning capabilities. Following the taxonomy of the field, we focus on three key paradigms:
+This Awesome list systematically curates and tracks the latest research in the post-training of Video-LMMs, with a special emphasis on works that enhance their reasoning capabilities. Following the taxonomy of the field, we focus on three key paradigms:
 
 
-- 🧠 Reinforced Video-LLMs: Exploring how RL techniques are used to align Video-LLMs with human preferences or specific metrics. This includes methods like RLHF, DPO, GRPO and the design of effective reward models to enhance the logical consistency and factuality of model outputs.
+- 🧠 Reinforced Video-LMMs: Exploring how RL techniques are used to align Video-LMMs with human preferences or specific metrics. This includes methods like RLHF, DPO, GRPO and the design of effective reward models to enhance the logical consistency and factuality of model outputs.
 
 - ⚙️ SFT for Reasoning: Collecting studies that leverage SFT on meticulously curated, reasoning-centric datasets. These works often incorporate CoT or other structured formats to directly teach models how to perform complex, multi-step reasoning.
 
 - 🚀 Test-Time Scaling in Video Reasoning: Focusing on strategies that enhance reasoning capabilities at inference time without requiring further model training. This includes techniques like agentic frameworks, tool use, RAG, long CoT, and other methods that scale reasoning through computation.
 
-- 📊 Benchmarks for Video Reasoning: Including the latest and most challenging benchmarks designed specifically to evaluate the complex reasoning abilities of Video-LLMs.
+- 📊 Benchmarks for Video Reasoning: Including the latest and most challenging benchmarks designed specifically to evaluate the complex reasoning abilities of Video-LMMs.
 
 We hope this repository serves as a comprehensive and up-to-date resource hub for researchers and developers in this cutting-edge field. Contributions from the community are highly welcome via Pull Requests!
 
 ## Table of Contents
 
-- [Awesome-Video-LLM-Post-Training ](#awesome-video-llm-post-training-)
+- [Awesome-Video-LMM-Post-Training ](#awesome-video-lmm-post-training-)
     - [Table of Contents](#table-of-contents)
     - [Survey](#survey)
-        - [Reinforced Video-LLMs](#reinforced-video-llms)
-        - [Video-LLM SFT for Reasoning](#video-llm-sft-for-reasoning)
+        - [Reinforced Video-LMMs](#reinforced-video-lmms)
+        - [Video-LMM SFT for Reasoning](#video-lmm-sft-for-reasoning)
         - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
         - [Benchmarks for Video Reasoning](#benchmarks-for-video-reasoning)
         - [Related Surveys](#related-surveys)
@@ -33,7 +39,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 
 ## Survey
 
-### Reinforced Video-LLMs
+### Reinforced Video-LMMs
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -109,7 +115,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Veason-R1: Reinforcing Video Reasoning Segmentation to Think Before It Segments | [Link](https://arxiv.org/abs/2407.05513) |  |  |  |
 | SAIL-VL2 Technical Report | [Link]() |  |  |  |
 
-### Video-LLM SFT for Reasoning
+### Video-LMM SFT for Reasoning
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
@@ -324,16 +330,16 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-Video-LLM-Post-Training&type=Date)](https://star-history.com/#yunlong10/Awesome-Video-LLM-Post-Training&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-Video-LMM-Post-Training&type=Date)](https://star-history.com/#yunlong10/Awesome-Video-LMM-Post-Training&Date)
 
 
 ## 📝 Citation
 
 ```bibtex
-@misc{tang2025videollmposttraining,
-  title={Awesome Video-LLM Post-Training},
+@misc{tang2025videolmmposttraining,
+  title={Awesome Video-LMM Post-Training},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/yunlong10/Awesome-Video-LLM-Post-Training}},
+  howpublished={\url{https://github.com/yunlong10/Awesome-Video-LMM-Post-Training}},
 }
 ```
