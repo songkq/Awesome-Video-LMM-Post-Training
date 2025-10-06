@@ -32,7 +32,7 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding | [Link](https://arxiv.org/abs/2508.20478) | | | |
-| Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [Link](https://arxiv.org/abs/2508.04416) | | | |
+| Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [Link](https://arxiv.org/abs/2508.04416) | [Code](https://github.com/zhang9302002/ThinkingWithVideos) | [Dataset](https://huggingface.co/datasets/zhang9302002/MultiTaskVideoReasoning) | |
 | ReasonAct: Progressive Training for Fine-Grained Video Reasoning in Small Models | [Link](https://arxiv.org/abs/2508.01533) | | | |
 | ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [Link](https://arxiv.org/abs/2507.20939) | | | |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Link](https://arxiv.org/abs/2507.10548) | | | |
