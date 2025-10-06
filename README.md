@@ -34,15 +34,15 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 | Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding | [Link](https://arxiv.org/abs/2508.20478) | | | |
 | Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning | [Link](https://arxiv.org/abs/2508.04416) | [Code](https://github.com/zhang9302002/ThinkingWithVideos) | [Dataset](https://huggingface.co/datasets/zhang9302002/MultiTaskVideoReasoning) | |
 | ReasonAct: Progressive Training for Fine-Grained Video Reasoning in Small Models | [Link](https://arxiv.org/abs/2508.01533) | | | |
-| ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [Link](https://arxiv.org/abs/2507.20939) | | | |
+| ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [Link](https://arxiv.org/abs/2507.20939) | [Code](https://github.com/TencentARC/ARC-Hunyuan-Video-7B) | | |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Link](https://arxiv.org/abs/2507.10548) | | | |
-| Scaling RL to Long Videos | [Link](https://arxiv.org/abs/2507.07966) | | | |
-| Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Link](https://arxiv.org/abs/2507.06485) | | | |
+| Scaling RL to Long Videos | [Link](https://arxiv.org/abs/2507.07966) | [Code](https://github.com/NVlabs/Long-RL) | | |
+| Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Link](https://arxiv.org/abs/2507.06485) | [Code](https://github.com/Ziyang412/Video-RTS) | | |
 | Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning | [Link](https://arxiv.org/abs/2507.04702) | | | |
 | VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning | [Link](https://arxiv.org/abs/2507.02626) | | | |
-| Kwai Keye-VL Technical Report | [Link](https://arxiv.org/abs/2507.01949) | | | |
-| VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning | [Link](https://arxiv.org/abs/2506.17221) | | | |
-| Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning | [Link](https://arxiv.org/abs/2506.13654) | | | |
+| Kwai Keye-VL Technical Report | [Link](https://arxiv.org/abs/2507.01949) | [Code](https://github.com/Kwai-Keye/Keye) | | |
+| VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning | [Link](https://arxiv.org/abs/2506.17221) | [Code](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1) | [Dataset](https://huggingface.co/datasets/alexzyqi/VLN-Ego) | |
+| Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning | [Link](https://arxiv.org/abs/2506.13654) | [Code](https://github.com/egolife-ai/Ego-R1) | [Dataset](https://huggingface.co/Ego-R1) | |
 | VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks | [Link](https://arxiv.org/abs/2506.09079) | | | |
 | DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO | [Link](https://arxiv.org/abs/2506.07464) | | | |
 | AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs | [Link](https://arxiv.org/abs/2506.05328) | | | |
