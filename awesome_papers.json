@@ -1,0 +1,2103 @@
+[
+  {
+    "title": "Reinforcement Learning Tuning for VideoLLMs: Reward Design and Data Efficiency",
+    "released": "2025-06-02T17:28:26",
+    "link": "https://arxiv.org/abs/2506.01908",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning",
+    "released": "2025-05-22T16:05:06",
+    "link": "https://arxiv.org/abs/2505.16836",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning",
+    "released": "2025-04-09T15:09:27",
+    "link": "https://arxiv.org/abs/2504.06958",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning",
+    "released": "2025-04-02T15:12:17",
+    "link": "https://arxiv.org/abs/2504.01805",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation",
+    "released": "2025-03-25T13:12:17",
+    "link": "https://arxiv.org/abs/2503.19622",
+    "tags": [
+      "SFT",
+      "RL",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model",
+    "released": "2025-02-17T13:07:40",
+    "link": "https://arxiv.org/abs/2502.11775",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MMVU: Measuring Expert-Level Multi-Discipline Video Understanding",
+    "released": "2025-01-21T18:56:18",
+    "link": "https://arxiv.org/abs/2501.12380",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Scaling RL to Long Videos",
+    "released": "2025-07-10T17:47:40",
+    "link": "https://arxiv.org/abs/2507.07966",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning",
+    "released": "2025-07-09T02:06:13",
+    "link": "https://arxiv.org/abs/2507.06485",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "DIVE: Deep-search Iterative Video Exploration A Technical Report for the CVRR Challenge at CVPR 2025",
+    "released": "2025-06-27T04:05:12",
+    "link": "https://arxiv.org/abs/2506.21891",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ImplicitQA: Going beyond frames towards Implicit Video Reasoning",
+    "released": "2025-06-26T19:53:54",
+    "link": "https://arxiv.org/abs/2506.21742",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning",
+    "released": "2025-06-16T16:17:08",
+    "link": "https://arxiv.org/abs/2506.13654",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "CogStream: Context-guided Streaming Video Question Answering",
+    "released": "2025-06-12T09:24:07",
+    "link": "https://arxiv.org/abs/2506.10516",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Wait, We Don't Need to \"Wait\"! Removing Thinking Tokens Improves Reasoning Efficiency",
+    "released": "2025-06-10T01:54:04",
+    "link": "https://arxiv.org/abs/2506.08343",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO",
+    "released": "2025-06-09T06:15:54",
+    "link": "https://arxiv.org/abs/2506.07464",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning",
+    "released": "2025-06-04T03:18:01",
+    "link": "https://arxiv.org/abs/2506.03525",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding",
+    "released": "2025-06-02T04:23:21",
+    "link": "https://arxiv.org/abs/2506.01300",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "SiLVR: A Simple Language-based Video Reasoning Framework",
+    "released": "2025-05-30T17:59:19",
+    "link": "https://arxiv.org/abs/2505.24869",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Reinforcing Video Reasoning with Focused Thinking",
+    "released": "2025-05-30T15:42:19",
+    "link": "https://arxiv.org/abs/2505.24718",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?",
+    "released": "2025-05-29T11:33:43",
+    "link": "https://arxiv.org/abs/2505.23359",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Fostering Video Reasoning via Next-Event Prediction",
+    "released": "2025-05-28T15:13:34",
+    "link": "https://arxiv.org/abs/2505.22457",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?",
+    "released": "2025-05-27T16:05:01",
+    "link": "https://arxiv.org/abs/2505.21374",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization",
+    "released": "2025-05-25T06:41:28",
+    "link": "https://arxiv.org/abs/2505.19000",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning",
+    "released": "2025-05-20T11:40:43",
+    "link": "https://arxiv.org/abs/2505.14231",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning",
+    "released": "2025-05-18T14:14:35",
+    "link": "https://arxiv.org/abs/2505.12434",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "RVTBench: A Benchmark for Visual Reasoning Tasks",
+    "released": "2025-05-17T04:58:09",
+    "link": "https://arxiv.org/abs/2505.11838",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning",
+    "released": "2025-05-17T04:34:32",
+    "link": "https://arxiv.org/abs/2505.11830",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MINERVA: Evaluating Complex Video Reasoning",
+    "released": "2025-05-01T17:41:49",
+    "link": "https://arxiv.org/abs/2505.00681",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning",
+    "released": "2025-04-13T16:32:49",
+    "link": "https://arxiv.org/abs/2504.09641",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning",
+    "released": "2025-04-10T17:59:03",
+    "link": "https://arxiv.org/abs/2504.07956",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-R1: Reinforcing Video Reasoning in MLLMs",
+    "released": "2025-03-27T17:59:51",
+    "link": "https://arxiv.org/abs/2503.21776",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning",
+    "released": "2025-03-17T17:59:33",
+    "link": "https://arxiv.org/abs/2503.13444",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning",
+    "released": "2025-03-14T15:21:44",
+    "link": "https://arxiv.org/abs/2503.11495",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Token-Efficient Long Video Understanding for Multimodal LLMs",
+    "released": "2025-03-06T06:17:38",
+    "link": "https://arxiv.org/abs/2503.04130",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "M-LLM Based Video Frame Selection for Efficient Video Understanding",
+    "released": "2025-02-27T01:44:13",
+    "link": "https://arxiv.org/abs/2502.19680",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge",
+    "released": "2025-01-23T08:33:10",
+    "link": "https://arxiv.org/abs/2501.13468",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning",
+    "released": "2025-01-13T11:28:49",
+    "link": "https://arxiv.org/abs/2501.07227",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?",
+    "released": "2025-01-09T19:00:01",
+    "link": "https://arxiv.org/abs/2501.05510",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events",
+    "released": "2024-12-07T19:19:03",
+    "link": "https://arxiv.org/abs/2412.05725",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection",
+    "released": "2024-11-22T08:33:36",
+    "link": "https://arxiv.org/abs/2411.14794",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning",
+    "released": "2024-09-26T08:51:29",
+    "link": "https://arxiv.org/abs/2409.17647",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition",
+    "released": "2024-05-07T11:55:10",
+    "link": "https://arxiv.org/abs/2501.03230",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments",
+    "released": "2025-07-14T17:59:46",
+    "link": "https://arxiv.org/abs/2507.10548",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Kwai Keye-VL Technical Report",
+    "released": "2025-07-02T17:57:28",
+    "link": "https://arxiv.org/abs/2507.01949",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks",
+    "released": "2025-06-10T03:57:53",
+    "link": "https://arxiv.org/abs/2506.09079",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs",
+    "released": "2025-06-05T17:58:33",
+    "link": "https://arxiv.org/abs/2506.05328",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding",
+    "released": "2025-05-27T04:50:07",
+    "link": "https://arxiv.org/abs/2505.20715",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ViaRL: Adaptive Temporal Grounding via Visual Iterated Amplification Reinforcement Learning",
+    "released": "2025-05-21T12:29:40",
+    "link": "https://arxiv.org/abs/2505.15447",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1",
+    "released": "2025-03-31T17:55:23",
+    "link": "https://arxiv.org/abs/2503.24376",
+    "tags": [
+      "SFT",
+      "RL",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Memory-enhanced Retrieval Augmentation for Long Video Understanding",
+    "released": "2025-03-12T08:23:32",
+    "link": "https://arxiv.org/abs/2503.09149",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model",
+    "released": "2025-01-21T18:47:32",
+    "link": "https://arxiv.org/abs/2501.12368",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "From Evaluation to Defense: Advancing Safety in Video Large Language Models",
+    "released": "2025-05-22T13:16:53",
+    "link": "https://arxiv.org/abs/2505.16643",
+    "tags": [
+      "SFT",
+      "RL",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning",
+    "released": "2025-05-31T00:08:21",
+    "link": "https://arxiv.org/abs/2506.00318",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VidText: Towards Comprehensive Evaluation for Video Text Understanding",
+    "released": "2025-05-28T19:39:35",
+    "link": "https://arxiv.org/abs/2505.22810",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation",
+    "released": "2025-05-21T18:32:43",
+    "link": "https://arxiv.org/abs/2505.15928",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Multimodal Long Video Modeling Based on Temporal Dynamic Context",
+    "released": "2025-04-14T17:34:06",
+    "link": "https://arxiv.org/abs/2504.10443",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT",
+    "released": "2025-04-06T13:03:34",
+    "link": "https://arxiv.org/abs/2504.04471",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension",
+    "released": "2025-03-11T17:59:57",
+    "link": "https://arxiv.org/abs/2503.08689",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",
+    "released": "2024-12-06T18:57:08",
+    "link": "https://arxiv.org/abs/2412.05271",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training",
+    "released": "2024-11-29T11:54:55",
+    "link": "https://arxiv.org/abs/2412.00161",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "DAVID-XR1: Detecting AI-Generated Videos with Explainable Reasoning",
+    "released": "2025-06-13T13:39:53",
+    "link": "https://arxiv.org/abs/2506.14827",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "EgoVLM: Policy Optimization for Egocentric Video Understanding",
+    "released": "2025-06-03T17:28:00",
+    "link": "https://arxiv.org/abs/2506.03097",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning",
+    "released": "2025-05-29T14:48:10",
+    "link": "https://arxiv.org/abs/2505.23504",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration",
+    "released": "2025-05-26T17:34:06",
+    "link": "https://arxiv.org/abs/2505.20256",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos",
+    "released": "2025-03-16T15:24:11",
+    "link": "https://arxiv.org/abs/2503.12542",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos",
+    "released": "2024-11-22T12:46:50",
+    "link": "https://arxiv.org/abs/2411.14901",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?",
+    "released": "2025-06-19T16:35:49",
+    "link": "https://arxiv.org/abs/2506.16450",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM",
+    "released": "2025-03-17T17:04:20",
+    "link": "https://arxiv.org/abs/2503.13377",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning",
+    "released": "2025-06-09T14:38:14",
+    "link": "https://arxiv.org/abs/2506.07811",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning",
+    "released": "2025-06-05T19:12:45",
+    "link": "https://arxiv.org/abs/2506.05523",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models",
+    "released": "2025-05-08T03:35:23",
+    "link": "https://arxiv.org/abs/2505.04921",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding",
+    "released": "2025-02-26T18:50:09",
+    "link": "https://arxiv.org/abs/2502.19400",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding",
+    "released": "2025-04-30T08:48:21",
+    "link": "https://arxiv.org/abs/2504.21435",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning",
+    "released": "2025-01-12T10:08:26",
+    "link": "https://arxiv.org/abs/2501.06761",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling",
+    "released": "2025-07-07T17:49:41",
+    "link": "https://arxiv.org/abs/2507.05240",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs",
+    "released": "2025-06-08T15:00:21",
+    "link": "https://arxiv.org/abs/2506.07180",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding",
+    "released": "2025-06-02T03:08:07",
+    "link": "https://arxiv.org/abs/2506.01274",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding",
+    "released": "2025-05-29T20:31:29",
+    "link": "https://arxiv.org/abs/2505.23990",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding",
+    "released": "2025-04-09T12:51:10",
+    "link": "https://arxiv.org/abs/2504.06835",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "PAVE: Patching and Adapting Video Large Language Models",
+    "released": "2025-03-25T16:02:37",
+    "link": "https://arxiv.org/abs/2503.19794",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray",
+    "released": "2025-02-07T18:59:56",
+    "link": "https://arxiv.org/abs/2502.05177",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks",
+    "released": "2025-01-14T18:58:04",
+    "link": "https://arxiv.org/abs/2501.08326",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Temporal Preference Optimization for Long-Form Video Understanding",
+    "released": "2025-01-23T18:58:03",
+    "link": "https://arxiv.org/abs/2501.13919",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization",
+    "released": "2025-04-16T13:43:56",
+    "link": "https://arxiv.org/abs/2504.12083",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoSAVi: Self-Aligned Video Language Models without Human Supervision",
+    "released": "2024-12-01T00:33:05",
+    "link": "https://arxiv.org/abs/2412.00624",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoDeepResearch: Long Video Understanding With Agentic Tool Using",
+    "released": "2025-06-12T15:39:10",
+    "link": "https://arxiv.org/abs/2506.10821",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "CoS: Chain-of-Shot Prompting for Long Video Understanding",
+    "released": "2025-02-10T13:03:05",
+    "link": "https://arxiv.org/abs/2502.06428",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning",
+    "released": "2025-06-06T13:58:31",
+    "link": "https://arxiv.org/abs/2506.06097",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Universal Visuo-Tactile Video Understanding for Embodied Interaction",
+    "released": "2025-05-28T16:43:01",
+    "link": "https://arxiv.org/abs/2505.22566",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding",
+    "released": "2025-05-23T16:37:36",
+    "link": "https://arxiv.org/abs/2505.18079",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Seed1.5-VL Technical Report",
+    "released": "2025-05-11T17:28:30",
+    "link": "https://arxiv.org/abs/2505.07062",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Empowering Agentic Video Analytics Systems with Video Language Models",
+    "released": "2025-05-01T02:40:23",
+    "link": "https://arxiv.org/abs/2505.00254",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoMultiAgents: A Multi-Agent Framework for Video Question Answering",
+    "released": "2025-04-25T22:08:09",
+    "link": "https://arxiv.org/abs/2504.20091",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MR. Video: \"MapReduce\" is the Principle for Long Video Understanding",
+    "released": "2025-04-22T17:59:41",
+    "link": "https://arxiv.org/abs/2504.16082",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "H2VU-Benchmark: A Comprehensive Benchmark for Hierarchical Holistic Video Understanding",
+    "released": "2025-03-31T12:32:51",
+    "link": "https://arxiv.org/abs/2503.24008",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Agentic Keyframe Search for Video Question Answering",
+    "released": "2025-03-20T10:58:12",
+    "link": "https://arxiv.org/abs/2503.16032",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM",
+    "released": "2024-12-31T18:56:46",
+    "link": "https://arxiv.org/abs/2501.00599",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding",
+    "released": "2024-12-31T09:22:38",
+    "link": "https://arxiv.org/abs/2501.00358",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VCA: Video Curious Agent for Long Video Understanding",
+    "released": "2024-12-12T23:39:54",
+    "link": "https://arxiv.org/abs/2412.10471",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning",
+    "released": "2024-10-26T19:01:06",
+    "link": "https://arxiv.org/abs/2410.20252",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models",
+    "released": "2025-04-08T16:58:58",
+    "link": "https://arxiv.org/abs/2504.06214",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "A2Seek: Towards Reasoning-Centric Benchmark for Aerial Anomaly Understanding",
+    "released": "2025-05-28T04:28:13",
+    "link": "https://arxiv.org/abs/2505.21962",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning",
+    "released": "2025-05-21T19:35:08",
+    "link": "https://arxiv.org/abs/2505.15966",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning",
+    "released": "2025-07-07T06:51:40",
+    "link": "https://arxiv.org/abs/2507.04702",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "CyberV: Cybernetics for Test-time Scaling in Video Understanding",
+    "released": "2025-06-09T17:45:18",
+    "link": "https://arxiv.org/abs/2506.07971",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models",
+    "released": "2025-07-08T09:43:17",
+    "link": "https://arxiv.org/abs/2507.05822",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Time Blindness: Why Video-Language Models Can't See What Humans Can?",
+    "released": "2025-05-30T17:59:12",
+    "link": "https://arxiv.org/abs/2505.24867",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding",
+    "released": "2025-05-29T18:15:07",
+    "link": "https://arxiv.org/abs/2505.23922",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation",
+    "released": "2025-05-20T17:26:32",
+    "link": "https://arxiv.org/abs/2505.14640",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding?",
+    "released": "2025-05-20T13:07:55",
+    "link": "https://arxiv.org/abs/2505.14321",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models",
+    "released": "2025-05-13T11:35:58",
+    "link": "https://arxiv.org/abs/2505.08455",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action",
+    "released": "2025-05-02T21:00:17",
+    "link": "https://arxiv.org/abs/2505.01583",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VEU-Bench: Towards Comprehensive Understanding of Video Editing",
+    "released": "2025-04-24T04:36:28",
+    "link": "https://arxiv.org/abs/2504.17828",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Mavors: Multi-granularity Video Representation for Multimodal Large Language Model",
+    "released": "2025-04-14T10:14:44",
+    "link": "https://arxiv.org/abs/2504.10068",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts",
+    "released": "2025-03-29T02:46:58",
+    "link": "https://arxiv.org/abs/2503.22952",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Does Your Vision-Language Model Get Lost in the Long Video Sampling Dilemma?",
+    "released": "2025-03-16T13:12:45",
+    "link": "https://arxiv.org/abs/2503.12496",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment",
+    "released": "2025-03-12T05:28:24",
+    "link": "https://arxiv.org/abs/2503.09081",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation",
+    "released": "2025-03-12T03:25:51",
+    "link": "https://arxiv.org/abs/2503.10691",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Towards Fine-Grained Video Question Answering",
+    "released": "2025-03-10T01:02:01",
+    "link": "https://arxiv.org/abs/2503.06820",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding",
+    "released": "2025-02-15T14:29:44",
+    "link": "https://arxiv.org/abs/2502.10810",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "LongViTU: Instruction Tuning for Long-Form Video Understanding",
+    "released": "2025-01-09T07:51:14",
+    "link": "https://arxiv.org/abs/2501.05037",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs",
+    "released": "2025-01-08T08:15:29",
+    "link": "https://arxiv.org/abs/2501.04336",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding",
+    "released": "2025-01-03T05:32:37",
+    "link": "https://arxiv.org/abs/2501.01645",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "PruneVid: Visual Token Pruning for Efficient Video Large Language Models",
+    "released": "2024-12-20T18:01:58",
+    "link": "https://arxiv.org/abs/2412.16117",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark",
+    "released": "2024-12-10T18:55:23",
+    "link": "https://arxiv.org/abs/2412.07825",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding",
+    "released": "2024-12-04T22:03:19",
+    "link": "https://arxiv.org/abs/2412.03735",
+    "tags": [
+      "TTS",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding",
+    "released": "2024-12-03T05:54:43",
+    "link": "https://arxiv.org/abs/2412.02186",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models",
+    "released": "2024-10-30T17:50:23",
+    "link": "https://arxiv.org/abs/2410.23266",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models",
+    "released": "2024-10-14T17:59:58",
+    "link": "https://arxiv.org/abs/2410.10818",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs",
+    "released": "2024-09-30T15:04:14",
+    "link": "https://arxiv.org/abs/2409.20365",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment",
+    "released": "2025-03-26T11:53:03",
+    "link": "https://arxiv.org/abs/2503.20472",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TIME: Temporal-sensitive Multi-dimensional Instruction Tuning and Benchmarking for Video-LLMs",
+    "released": "2025-03-13T03:05:11",
+    "link": "https://arxiv.org/abs/2503.09994",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning",
+    "released": "2025-07-03T13:52:24",
+    "link": "https://arxiv.org/abs/2507.02626",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning",
+    "released": "2025-06-20T17:59:59",
+    "link": "https://arxiv.org/abs/2506.17221",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoCap-R1: Enhancing MLLMs for Video Captioning via Structured Thinking",
+    "released": "2025-06-02T14:30:09",
+    "link": "https://arxiv.org/abs/2506.01725",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought",
+    "released": "2025-05-26T12:05:16",
+    "link": "https://arxiv.org/abs/2505.19877",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Compile Scene Graphs with Reinforcement Learning",
+    "released": "2025-04-18T10:46:22",
+    "link": "https://arxiv.org/abs/2504.13617",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "WikiVideo: Article Generation from Multiple Videos",
+    "released": "2025-04-01T16:22:15",
+    "link": "https://arxiv.org/abs/2504.00939",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Improved Visual-Spatial Reasoning via R1-Zero-Like Training",
+    "released": "2025-04-01T15:11:11",
+    "link": "https://arxiv.org/abs/2504.00883",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Aurelia: Test-time Reasoning Distillation in Audio-Visual LLMs",
+    "released": "2025-03-29T20:42:29",
+    "link": "https://arxiv.org/abs/2503.23219",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation",
+    "released": "2025-05-19T02:06:43",
+    "link": "https://arxiv.org/abs/2505.12620",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models",
+    "released": "2025-04-21T17:57:28",
+    "link": "https://arxiv.org/abs/2504.15271",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts",
+    "released": "2025-07-28T15:52:36",
+    "link": "https://arxiv.org/abs/2507.20939",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent",
+    "released": "2025-07-21T09:27:45",
+    "link": "https://arxiv.org/abs/2507.15428",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding",
+    "released": "2025-07-20T16:30:33",
+    "link": "https://arxiv.org/abs/2507.15028",
+    "tags": [
+      "TTS",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "CoTasks: Chain-of-Thought based Video Instruction Tuning Tasks",
+    "released": "2025-07-18T02:29:19",
+    "link": "https://arxiv.org/abs/2507.13609",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models",
+    "released": "2025-07-14T03:21:13",
+    "link": "https://arxiv.org/abs/2507.09876",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoForest: Person-Anchored Hierarchical Reasoning for Cross-Video Question Answering",
+    "released": "2025-08-05T03:33:24",
+    "link": "https://arxiv.org/abs/2508.03039",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference",
+    "released": "2025-08-04T07:31:10",
+    "link": "https://arxiv.org/abs/2508.02134",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning",
+    "released": "2025-08-06T13:03:21",
+    "link": "https://arxiv.org/abs/2508.04416",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoLLM Benchmarks and Evaluation: A Survey",
+    "released": "2025-05-03T20:56:09",
+    "link": "https://arxiv.org/abs/2505.03829",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding",
+    "released": "2024-09-27T17:38:36",
+    "link": "https://arxiv.org/abs/2409.18938",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models",
+    "released": "2025-04-30T03:14:28",
+    "link": "https://arxiv.org/abs/2504.21277",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey",
+    "released": "2025-03-16T18:39:13",
+    "link": "https://arxiv.org/abs/2503.12605",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding",
+    "released": "2024-09-27T17:38:36",
+    "link": "https://arxiv.org/abs/2409.18938",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video Understanding with Large Language Models: A Survey",
+    "released": "2023-12-29T00:00:00",
+    "link": "https://arxiv.org/abs/2312.17322",
+    "tags": [
+      "Survey"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+    "released": "2024-12-18T18:59:54",
+    "link": "https://arxiv.org/abs/2412.14171",
+    "tags": [
+      "SFT",
+      "TTS",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Divide and Conquer: Exploring Language-centric Tree Reasoning for Video Question-Answering",
+    "released": "2025-05-01T00:00:00",
+    "link": "https://openreview.net/forum?id=yTpn3QY9Ff",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MiMo-VL Technical Report",
+    "released": "2025-06-04T00:00:00",
+    "link": "https://arxiv.org/abs/2506.03569",
+    "tags": [
+      "SFT",
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Unhackable Temporal Rewarding for Scalable Video MLLMs",
+    "released": "2025-02-17T00:00:00",
+    "link": "https://arxiv.org/abs/2502.12081",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ReasonAct: Progressive Training for Fine-Grained Video Reasoning in Small Models",
+    "released": "2025-08-03T00:00:00",
+    "link": "https://arxiv.org/abs/2508.01533",
+    "tags": [
+      "RL",
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding",
+    "released": "2025-08-28T06:55:08",
+    "link": "https://arxiv.org/abs/2508.20478",
+    "tags": [
+      "RL",
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames",
+    "released": "2025-07-01T18:39:26",
+    "link": "https://arxiv.org/abs/2507.02001",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data",
+    "released": "2025-09-03T00:00:00",
+    "link": "https://arxiv.org/abs/2509.03501",
+    "tags": [
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs",
+    "released": "2025-09-22T00:00:00",
+    "link": "https://arxiv.org/abs/2509.18056",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ChronoForge-RL: Chronological Forging through Reinforcement Learning for Enhanced Video Understanding",
+    "released": "2025-09-19T00:00:00",
+    "link": "https://arxiv.org/abs/2509.15800",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "AdsQA: Towards Advertisement Video Understanding",
+    "released": "2025-09-10T14:17:53",
+    "link": "https://arxiv.org/abs/2509.08621",
+    "tags": [
+      "Benchmark",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "SAIL-VL2 Technical Report",
+    "released": "2024-06-01T00:00:00",
+    "link": "",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding",
+    "released": "2025-08-28T06:55:08",
+    "link": "https://arxiv.org/abs/2508.20478",
+    "tags": [
+      "RL",
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "CVBench: Evaluating Cross-Video Synergies for Complex Multimodal Understanding and Reasoning",
+    "released": "2025-08-28T14:22:38",
+    "link": "https://arxiv.org/abs/2508.19542",
+    "tags": [
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Ovis2.5 Technical Report",
+    "released": "2025-08-15T00:00:00",
+    "link": "https://arxiv.org/abs/2508.11737",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "TAR-TVG: Enhancing VLMs with Timestamp Anchor-Constrained Reasoning for Temporal Video Grounding",
+    "released": "2025-08-11T06:59:32",
+    "link": "https://arxiv.org/abs/2508.07683",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VQAThinker: Exploring Generalizable and Explainable Video Quality Assessment via Reinforcement Learning",
+    "released": "2025-08-08T00:00:00",
+    "link": "https://arxiv.org/abs/2508.06051",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking",
+    "released": "2025-08-12T00:00:00",
+    "link": "https://arxiv.org/abs/2508.05221",
+    "tags": [
+      "SFT",
+      "RL",
+      "Benchmark"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video",
+    "released": "2025-08-06T00:00:00",
+    "link": "https://arxiv.org/abs/2508.03100",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark",
+    "released": "2025-07-25T00:00:00",
+    "link": "https://arxiv.org/abs/2507.16206",
+    "tags": [
+      "Benchmark",
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Kwai Keye-VL 1.5 Technical Report",
+    "released": "2025-09-04T00:00:00",
+    "link": "https://arxiv.org/abs/2509.01563",
+    "tags": [
+      "SFT",
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Veason-R1: Reinforcing Video Reasoning Segmentation to Think Before It Segments",
+    "released": "2024-07-10T00:00:00",
+    "link": "https://arxiv.org/abs/2407.05513",
+    "tags": [
+      "RL",
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames",
+    "released": "2025-07-01T18:39:26",
+    "link": "https://arxiv.org/abs/2507.02001",
+    "tags": [
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought",
+    "released": "2025-06-10T00:00:00",
+    "link": "https://arxiv.org/abs/2506.08817",
+    "tags": [
+      "Benchmark",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning",
+    "released": "2025-06-04T00:00:00",
+    "link": "https://arxiv.org/abs/2506.03525",
+    "tags": [
+      "SFT",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception",
+    "released": "2025-09-25T00:00:00",
+    "link": "https://arxiv.org/abs/2509.21100",
+    "tags": [
+      "RL",
+      "TTS"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning",
+    "released": "2025-09-25T00:00:00",
+    "link": "https://arxiv.org/abs/2509.21113",
+    "tags": [
+      "RL"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  },
+  {
+    "title": "VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks",
+    "released": "2025-06-10T00:00:00",
+    "link": "https://arxiv.org/abs/2506.09079v2",
+    "tags": [
+      "RL",
+      "SFT"
+    ],
+    "code": "",
+    "dataset": "",
+    "venue": ""
+  }
+]
