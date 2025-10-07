@@ -1,4 +1,4 @@
-# Awesome-Video-LMM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Video-LMM-Post-Training[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models
 
@@ -9,6 +9,11 @@
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2510.05034) [![arXiv](https://img.shields.io/badge/Arxiv-2510.05034-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2510.05034) 
 
 ![image](./assets/timeline.png)
+
+## News
+- **[2025/10/06]** 🎉 Our survey is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)! 
+
+## Overview
 
 This Awesome list systematically curates and tracks the latest research in the post-training of Video-LMMs, with a special emphasis on works that enhance their reasoning capabilities. Following the taxonomy of the field, we focus on three key paradigms:
 
@@ -23,11 +28,14 @@ This Awesome list systematically curates and tracks the latest research in the p
 
 We hope this repository serves as a comprehensive and up-to-date resource hub for researchers and developers in this cutting-edge field. Contributions from the community are highly welcome via Pull Requests!
 
+
+
 ## Table of Contents
 
-- [Awesome-Video-LMM-Post-Training ](#awesome-video-lmm-post-training-)
+- [Awesome-Video-LMM-Post-Training](#awesome-video-lmm-post-training)
+    - [Overview](#overview)
     - [Table of Contents](#table-of-contents)
-    - [Survey](#survey)
+    - [Survey](#latest-research-in-video-lmms-post-training)
         - [Reinforced Video-LMMs](#reinforced-video-lmms)
         - [Video-LMM SFT for Reasoning](#video-lmm-sft-for-reasoning)
         - [Test-Time Scaling in Video Reasoning](#test-time-scaling-in-video-reasoning)
@@ -51,7 +59,7 @@ If you find our survey useful for your research, please cite the following paper
   year={2025}
 ```
 
-## Survey
+## Latest Research in Video-LMMs Post-Training
 
 ### Reinforced Video-LMMs
 
