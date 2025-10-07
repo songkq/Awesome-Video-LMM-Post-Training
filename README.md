@@ -11,7 +11,9 @@
 ![image](./assets/timeline.png)
 
 ## News
-- **[2025/10/06]** 🎉 Our survey is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)! 
+- **[2025/10/06]** 🎉 Our survey paper on Video-LMM Post-Training for Video Reasoning is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)! 
+- **[2025/06/18]** 🚀 Initial release of the Awesome-Video-LMM-Post-Training repository! We welcome contributions via Pull Requests.
+- **[2025/05/04]** 📢 Our survey paper on Video Understanding with Large Language Model has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)! 👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) \| [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
 
 ## Overview
 
