@@ -20,6 +20,7 @@ README_HEADER = """# Awesome-Video-LMM-Post-Training [![Awesome](https://awesome
 > *<sup>1</sup>University of Rochester, <sup>2</sup>Northwestern University, <sup>3</sup>CMU, <sup>4</sup>UCSB, <sup>5</sup>Purdue University, <sup>6</sup>NYU, <sup>7</sup>University of Oxford, <sup>8</sup>Brown University, <sup>9</sup>University of Virginia, <sup>10</sup>Sony Group Corporation*
 
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2510.05034)
+
 [![arXiv](https://img.shields.io/badge/Arxiv-2510.05034-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2510.05034) 
 
 ![image](./assets/timeline.png)
@@ -53,6 +54,16 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
     
 ![image](./assets/teaser.png)
 
+## 📝 Citation
+
+```bibtex
+@misc{tang2025videollmposttraining,
+  title={Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models},
+  author={Yunlong Tang, Jing Bi, Pinxin Liu, Zhenyu Pan, Zhangyun Tan, Qianxiang Shen, Jiani Liu, Hang Hua, Junjia Guo, Yunzhong Xiao, Chao Huang, Zhiyuan Wang, Susan Liang, Xinyi Liu, Yizhi Song, Yuhe Nie, Jia-Xing Zhong, Bozheng Li, Daiqing Qi, Ziyun Zeng, Ali Vosoughi, Luchuan Song, Zeliang Zhang, Daiki Shimada, Han Liu, Jiebo Luo, Chenliang Xu},
+  journal={arXiv preprint arXiv:2510.05034},
+  year={2025}
+```
+
 ## Survey
 """
 
@@ -65,16 +76,6 @@ README_FOOTER = """
 [![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-Video-LMM-Post-Training&type=Date)](https://star-history.com/#yunlong10/Awesome-Video-LMM-Post-Training&Date)
 
 
-## 📝 Citation
-
-```bibtex
-@misc{tang2025videolmmposttraining,
-  title={Awesome Video-LMM Post-Training},
-  year={2025},
-  publisher={GitHub},
-  howpublished={\\url{https://github.com/yunlong10/Awesome-Video-LMM-Post-Training}},
-}
-```
 """
 
 def generate_markdown_table(papers):
