@@ -54,6 +54,8 @@ We hope this repository serves as a comprehensive and up-to-date resource hub fo
 
 ## 📝 Citation
 
+If you find our survey useful for your research, please cite the following paper:
+
 ```bibtex
 @misc{tang2025videollmposttraining,
   title={Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models},
