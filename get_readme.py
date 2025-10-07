@@ -89,17 +89,17 @@ def generate_markdown_table(papers):
         
         # Get code link (if exists)
         code_link = paper.get('code', '')
-        code_cell = f"[Link]({code_link})" if code_link else ""
+        code_cell = f"[GitHub]({code_link})" if code_link else ""
         
         # Get dataset link (if exists)
         dataset_link = paper.get('dataset', '')
-        dataset_cell = f"[Link]({dataset_link})" if dataset_link else ""
+        dataset_cell = f"[Dataset]({dataset_link})" if dataset_link else ""
         
         # Get venue info
         venue = paper.get('venue', '')
         
         # Format the row
-        row = f"| {title} | [Link]({paper_link}) | {code_cell} | {dataset_cell} | {venue} |"
+        row = f"| {title} | [Paper]({paper_link}) | {code_cell} | {dataset_cell} | {venue} |"
         lines.append(row)
         
     return "\n".join(lines)
