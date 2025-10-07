@@ -6,9 +6,7 @@
 
 > *<sup>1</sup>University of Rochester, <sup>2</sup>Northwestern University, <sup>3</sup>CMU, <sup>4</sup>UCSB, <sup>5</sup>Purdue University, <sup>6</sup>NYU, <sup>7</sup>University of Oxford, <sup>8</sup>Brown University, <sup>9</sup>University of Virginia, <sup>10</sup>Sony Group Corporation*
 
-[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2510.05034)
-
-[![arXiv](https://img.shields.io/badge/Arxiv-2510.05034-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2510.05034) 
+[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2510.05034) [![arXiv](https://img.shields.io/badge/Arxiv-2510.05034-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2510.05034) 
 
 ![image](./assets/timeline.png)
 
