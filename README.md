@@ -87,7 +87,7 @@ If you find our survey useful for your research, please cite the following paper
 | METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark | [Paper](https://arxiv.org/abs/2507.16206) |  |  |  |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Paper](https://arxiv.org/abs/2507.10548) |  |  |  |
 | Scaling RL to Long Videos | [Paper](https://arxiv.org/abs/2507.07966) | [GitHub](https://github.com/NVLabs/Long-RL) | [Dataset](https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason) | NeurIPS 2025 |
-| Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Paper](https://arxiv.org/abs/2507.06485) | [GitHub](https://github.com/Ziyang412/Video-RTS) |  |  |
+| Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Paper](https://arxiv.org/abs/2507.06485) | [GitHub](https://github.com/Ziyang412/Video-RTS) |  | EMNLP 2025 |
 | Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning | [Paper](https://arxiv.org/abs/2507.04702) |  |  |  |
 | VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning | [Paper](https://arxiv.org/abs/2507.02626) |  |  |  |
 | Kwai Keye-VL Technical Report | [Paper](https://arxiv.org/abs/2507.01949) | [GitHub](https://github.com/Kwai-Keye/Keye) |  |  |
@@ -227,7 +227,7 @@ If you find our survey useful for your research, please cite the following paper
 | EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent | [Paper](https://arxiv.org/abs/2507.15428) |  |  |  |
 | Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding | [Paper](https://arxiv.org/abs/2507.15028) |  |  |  |
 | ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models | [Paper](https://arxiv.org/abs/2507.09876) |  |  |  |
-| Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Paper](https://arxiv.org/abs/2507.06485) | [GitHub](https://github.com/Ziyang412/Video-RTS) |  |  |
+| Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Paper](https://arxiv.org/abs/2507.06485) | [GitHub](https://github.com/Ziyang412/Video-RTS) |  | EMNLP 2025 |
 | StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling | [Paper](https://arxiv.org/abs/2507.05240) |  |  |  |
 | VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning | [Paper](https://arxiv.org/abs/2507.02626) |  |  |  |
 | Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames | [Paper](https://arxiv.org/abs/2507.02001) |  |  |  |
