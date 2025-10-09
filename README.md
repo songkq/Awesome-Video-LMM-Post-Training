@@ -86,7 +86,7 @@ If you find our survey useful for your research, please cite the following paper
 | ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts | [Paper](https://arxiv.org/abs/2507.20939) |  |  |  |
 | METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark | [Paper](https://arxiv.org/abs/2507.16206) |  |  |  |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Paper](https://arxiv.org/abs/2507.10548) |  |  |  |
-| Scaling RL to Long Videos | [Paper](https://arxiv.org/abs/2507.07966) | [GitHub](https://github.com/NVLabs/Long-RL) |  |  |
+| Scaling RL to Long Videos | [Paper](https://arxiv.org/abs/2507.07966) | [GitHub](https://github.com/NVLabs/Long-RL) | [Dataset](https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason) | NeurIPS 2025 |
 | Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | [Paper](https://arxiv.org/abs/2507.06485) | [GitHub](https://github.com/Ziyang412/Video-RTS) |  |  |
 | Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning | [Paper](https://arxiv.org/abs/2507.04702) |  |  |  |
 | VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning | [Paper](https://arxiv.org/abs/2507.02626) |  |  |  |
@@ -157,7 +157,7 @@ If you find our survey useful for your research, please cite the following paper
 | METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark | [Paper](https://arxiv.org/abs/2507.16206) |  |  |  |
 | CoTasks: Chain-of-Thought based Video Instruction Tuning Tasks | [Paper](https://arxiv.org/abs/2507.13609) |  |  |  |
 | EmbRACE-3K: Embodied Reasoning and Action in Complex Environments | [Paper](https://arxiv.org/abs/2507.10548) |  |  |  |
-| Scaling RL to Long Videos | [Paper](https://arxiv.org/abs/2507.07966) | [GitHub](https://github.com/NVLabs/Long-RL) |  |  |
+| Scaling RL to Long Videos | [Paper](https://arxiv.org/abs/2507.07966) | [GitHub](https://github.com/NVLabs/Long-RL) | [Dataset](https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason) | NeurIPS 2025 |
 | Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models | [Paper](https://arxiv.org/abs/2507.05822) |  |  |  |
 | Kwai Keye-VL Technical Report | [Paper](https://arxiv.org/abs/2507.01949) | [GitHub](https://github.com/Kwai-Keye/Keye) |  |  |
 | VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning | [Paper](https://arxiv.org/abs/2506.17221) |  |  |  |
@@ -302,6 +302,7 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| Scaling RL to Long Videos | [Paper](https://arxiv.org/abs/2507.07966) | [GitHub](https://github.com/NVLabs/Long-RL) | [Dataset](https://huggingface.co/datasets/LongVideo-Reason/longvideo-reason) | NeurIPS 2025 |
 | AdsQA: Towards Advertisement Video Understanding | [Paper](https://arxiv.org/abs/2509.08621) |  |  |  |
 | CVBench: Evaluating Cross-Video Synergies for Complex Multimodal Understanding and Reasoning | [Paper](https://arxiv.org/abs/2508.19542) |  |  |  |
 | ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking | [Paper](https://arxiv.org/abs/2508.05221) |  |  |  |
