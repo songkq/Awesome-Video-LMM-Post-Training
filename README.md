@@ -317,6 +317,7 @@ If you find our survey useful for your research, please cite the following paper
 | From Evaluation to Defense: Advancing Safety in Video Large Language Models | [Paper](https://arxiv.org/abs/2505.16643) |  |  |  |
 | VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation | [Paper](https://arxiv.org/abs/2505.14640) |  |  |  |
 | Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding? | [Paper](https://arxiv.org/abs/2505.14321) |  |  |  |
+| RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video | [Paper](https://arxiv.org/abs/2505.02064) |[GitHub](https://github.com/LJungang/RTV-Bench)  | [Dataset](https://huggingface.co/datasets/RTVBench/RTV-Bench) | NeurIPS 2025 |
 | MINERVA: Evaluating Complex Video Reasoning | [Paper](https://arxiv.org/abs/2505.00681) | [GitHub](https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva) |  |  |
 | VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning | [Paper](https://arxiv.org/abs/2504.07956) | [GitHub](https://github.com/zhishuifeiqian/VCR-Bench) | [Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench) |  |
 | Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 | [Paper](https://arxiv.org/abs/2503.24376) | [GitHub](https://github.com/TencentARC/SEED-Bench-R1) | [Dataset](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1) |  |
