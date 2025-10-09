@@ -67,6 +67,7 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization | [Paper](https://arxiv.org/abs/2504.12083) | [GitHub](https://github.com/pritamqu/RRPO) | [Dataset](https://huggingface.co/datasets/pritamqu/self-alignment) | NeurIPS 2025 |
 | VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception | [Paper](https://arxiv.org/abs/2509.21100) |  |  |  |
 | MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning | [Paper](https://arxiv.org/abs/2509.21113) |  |  |  |
 | TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs | [Paper](https://arxiv.org/abs/2509.18056) |  |  |  |
