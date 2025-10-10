@@ -93,10 +93,10 @@ If you find our survey useful for your research, please cite the following paper
 | VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning | [Paper](https://arxiv.org/abs/2506.17221) |  |  |  |
 | Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning | [Paper](https://arxiv.org/abs/2506.13654) | [GitHub](https://github.com/egolife-ai/Ego-R1) | [Dataset](https://huggingface.co/Ego-R1) |  |
 | VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks | [Paper](https://arxiv.org/abs/2506.09079) | [GitHub](https://github.com/VidBridge-R1/VidBridge-R1) | [Dataset](https://huggingface.co/datasets/VidBridge-R1/VidBridge-R1_training_data) |  |
-| VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks | [Paper](https://arxiv.org/abs/2506.09079v2) |  |  |  |
+| VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks | [Paper](https://arxiv.org/abs/2506.09079v2) | [Github](https://github.com/VidBridge-R1/VidBridge-R1) |  |  |
 | DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO | [Paper](https://arxiv.org/abs/2506.07464) | [GitHub](https://github.com/mlvlab/DeepVideoR1) |  |  |
 | AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs | [Paper](https://arxiv.org/abs/2506.05328) | [GitHub](https://github.com/AV-Reasoner/AV-Reasoner) |  |  |
-| MiMo-VL Technical Report | [Paper](https://arxiv.org/abs/2506.03569) |  |  |  |
+| MiMo-VL Technical Report | [Paper](https://arxiv.org/abs/2506.03569) | [Github](https://github.com/XiaomiMiMo/MiMo-VL) |  |  |
 | EgoVLM: Policy Optimization for Egocentric Video Understanding | [Paper](https://arxiv.org/abs/2506.03097) | [GitHub](https://github.com/adityavavre/VidEgoVLM) | [Dataset](https://huggingface.co/datasets/omlab/VLM-R1) |  |
 | Reinforcement Learning Tuning for VideoLLMs: Reward Design and Data Efficiency | [Paper](https://arxiv.org/abs/2506.01908) | [GitHub](https://github.com/appletea233/Temporal-R1) |  |  |
 | VideoCap-R1: Enhancing MLLMs for Video Captioning via Structured Thinking | [Paper](https://arxiv.org/abs/2506.01725) |  |  |  |
