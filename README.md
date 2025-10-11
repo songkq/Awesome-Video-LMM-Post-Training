@@ -1,4 +1,4 @@
-# Awesome-Video-LMM-Post-Training[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Video-LMM-Post-Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models
 
